@@ -9,7 +9,7 @@ This is a simple live weather app that fetches weather data for any city using t
 - Error handling for invalid inputs or fetch failures.
   
 ## Demo
-(Include a screenshot or link to your app demo here)
+![Screenshot 2024-09-25 130237](https://github.com/user-attachments/assets/25d2d387-fbc8-41f5-a2f8-96d6b64c67cf)
 
 ## Technologies Used
 - HTML, CSS, JavaScript
